@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "659610343742",
+    "firebase_url": "https://pushserver-50bbc.firebaseio.com",
+    "project_id": "pushserver-50bbc",
+    "storage_bucket": "pushserver-50bbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659610343742:android:a3adcad0d5e42f0e",
+        "android_client_info": {
+          "package_name": "com.example.push_server"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659610343742-8n3jdjnef81b157ihe60qfnrv4rc4gf5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.push_server",
+            "certificate_hash": "4ed6e23437a4a566692f839fcb583eea1842f094"
+          }
+        },
+        {
+          "client_id": "659610343742-4b59813a7lnm08tesqkmrrgi7stf0vbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXxqpweWDwXRSkZIoRGgR8F8Qx84dHijE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659610343742-4b59813a7lnm08tesqkmrrgi7stf0vbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
